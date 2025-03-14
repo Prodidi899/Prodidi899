@@ -1,4 +1,4 @@
-- 👋 Hi, I’m The_litte-Bee
+- 👋 Hi, I’m The_little-Bee
 - 👀 I’m interested in ... Black juicey men (jk)
 - 🌱 I’m currently learning ... rust
 - 📫 How to reach me : discord : didi_little_bee
